@@ -9,7 +9,6 @@ This project is a Restaurant Management System built using MAUI (Multi-platform 
 - **Order Management**: Easily manage incoming orders, track order status, and streamline order processing.
 - **Menu Management**: Efficiently manage the restaurant menu, including adding, updating, and removing items.
 - **Customer Management**: Maintain a database of customer information, preferences, and order history for personalized service.
-- **Table Management**: Manage table reservations, availability, and seating arrangements for efficient use of restaurant space.
 - **Reporting**: Generate detailed reports on sales, inventory, revenue, and other key metrics to inform business decisions.
 
 
