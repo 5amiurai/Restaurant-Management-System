@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RestaurantManagementSystem.MainPage">
+
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Color x:Key="PrimaryColor">#6200EE</Color>
+            <Color x:Key="SecondaryColor">#03DAC6</Color>
+            <Color x:Key="BackgroundColor">#000000</Color>
+            <Color x:Key="ButtonColor">#4CAF50</Color>
+            <Color x:Key="ButtonTextColor">#FFFFFF</Color>
+            <Color x:Key="HeadlineColor">#FFFFFF</Color>
+            <x:Double x:Key="ContentBackgroundOpacity">0.8</x:Double>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+
+    <ContentPage.Content>
+        <AbsoluteLayout BackgroundColor="{StaticResource BackgroundColor}">
+            <!-- Background Image -->
+            <Image Source="e.jpg"
+                   Aspect="AspectFill"
+                   AbsoluteLayout.LayoutBounds="0,0,1,1"
+                   AbsoluteLayout.LayoutFlags="All" />
+
+            <!-- Content StackLayout -->
+            <StackLayout Padding="20"
+                     HeightRequest="600"
+                     WidthRequest="500"
+                     Spacing="20"
+                     BackgroundColor="{StaticResource BackgroundColor}"
+                     Opacity="{StaticResource ContentBackgroundOpacity}"
+                     HorizontalOptions="CenterAndExpand"
+                     VerticalOptions="CenterAndExpand">
+
+                <!-- Logo Image -->
+                <Image Source="f.png"
+                       HeightRequest="100"
+                       Aspect="AspectFit"
+                       HorizontalOptions="Center" />
+
+                <!-- Welcome Label -->
+                <Label Text="Welcome!      "
+                       HorizontalOptions="Center"
+                       FontSize="24"
+                       TextColor="{StaticResource HeadlineColor}" />
+
+                <!-- Buttons -->
+                <Button x:Name="TakeOutBtn"
+                        Text="Take-Out"
+                        Clicked="OnGoToOrderButtonClicked"
+                        WidthRequest="200"
+                        TextColor="{StaticResource ButtonTextColor}"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        CornerRadius="20"
+                        FontSize="20"
+                        HorizontalOptions="Center" />
+
+                <Button x:Name="OrderNowBtn"
+                        Text="Order Now"
+                        Clicked="OnOrderNowButtonClicked"
+                        WidthRequest="200"
+                        TextColor="{StaticResource ButtonTextColor}"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        CornerRadius="20"
+                        FontSize="20"
+                        Margin="0,10,0,0"
+                        HorizontalOptions="Center" />
+
+                <Button x:Name="AddCusBtn"
+                        Text="Manage Customers"
+                        Clicked="OnAddCustomerButtonClicked"
+                        WidthRequest="200"
+                        TextColor="{StaticResource ButtonTextColor}"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        CornerRadius="20"
+                        FontSize="20"
+                        Margin="0,10,0,0"
+                        HorizontalOptions="Center" />
+
+                <Button x:Name="ReserBtn"
+                        Text="Make a Reservation"
+                        Clicked="OnReservationButtonClicked"
+                        WidthRequest="200"
+                        TextColor="{StaticResource ButtonTextColor}"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        CornerRadius="20"
+                        FontSize="20"
+                        HorizontalOptions="Center" />
+            </StackLayout>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+
+</ContentPage>
+ 

@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\reservation_order.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:reservation_order.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\reservation_input.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:reservation_input.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\reservation_confirm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:reservation_confirm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\ordernow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:ordernow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\ordermain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:ordermain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\orderdisplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:orderdisplay.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\reservation_order.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:reservation_order.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:databaseaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\reservation_input.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:reservation_input.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\managecustomers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:managecustomers.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|c:\\users\\saadk\\downloads\\rms\\restaurant-management-system-main\\restaurantmanagementsystem\\restaurantmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5963143B-AA0D-4AEC-95A5-173F12949CC7}|RestaurantManagementSystem.csproj|solutionrelative:restaurantmanagementsystem.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\saadk\\AppData\\Local\\Temp\\.vsdbgsrc\\99f8b13f2beae1533fa44e046f60c8fc1b0f5ee0\\MainPage.xaml.sg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T12:06:50.485Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageCustomers.xaml",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\ManageCustomers.xaml",
+              "RelativeDocumentMoniker": "ManageCustomers.xaml",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\ManageCustomers.xaml",
+              "RelativeToolTip": "ManageCustomers.xaml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T15:10:37.808Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderNow.xaml",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\OrderNow.xaml",
+              "RelativeDocumentMoniker": "OrderNow.xaml",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\OrderNow.xaml",
+              "RelativeToolTip": "OrderNow.xaml",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T15:23:36.996Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation_input.xaml",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_input.xaml",
+              "RelativeDocumentMoniker": "Reservation_input.xaml",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_input.xaml",
+              "RelativeToolTip": "Reservation_input.xaml",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAAAB8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T15:29:19.547Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderMain.xaml",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\OrderMain.xaml",
+              "RelativeDocumentMoniker": "OrderMain.xaml",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\OrderMain.xaml",
+              "RelativeToolTip": "OrderMain.xaml",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T16:04:53.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDisplay.xaml",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\OrderDisplay.xaml",
+              "RelativeDocumentMoniker": "OrderDisplay.xaml",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\OrderDisplay.xaml",
+              "RelativeToolTip": "OrderDisplay.xaml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAABxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T16:04:47.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:04:45.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:04:44.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Reservation_order.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_order.xaml.cs",
+              "RelativeDocumentMoniker": "Reservation_order.xaml.cs",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_order.xaml.cs",
+              "RelativeToolTip": "Reservation_order.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:04:39.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Reservation_order.xaml",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_order.xaml",
+              "RelativeDocumentMoniker": "Reservation_order.xaml",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_order.xaml",
+              "RelativeToolTip": "Reservation_order.xaml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T16:04:32.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Reservation_confirm.xaml",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_confirm.xaml",
+              "RelativeDocumentMoniker": "Reservation_confirm.xaml",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_confirm.xaml",
+              "RelativeToolTip": "Reservation_confirm.xaml",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAC4AAAByAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-04-15T16:03:47.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation.cs",
+              "RelativeDocumentMoniker": "Reservation.cs",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation.cs",
+              "RelativeToolTip": "Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T16:03:41.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DatabaseAccess.cs",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\DatabaseAccess.cs",
+              "RelativeDocumentMoniker": "DatabaseAccess.cs",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\DatabaseAccess.cs",
+              "RelativeToolTip": "DatabaseAccess.cs",
+              "ViewState": "AQIAAG4BAAAAAAAAAADgvzEBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:54:46.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:32:01.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RestaurantManagementSystem",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+              "RelativeDocumentMoniker": "RestaurantManagementSystem.csproj",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\RestaurantManagementSystem.csproj",
+              "RelativeToolTip": "RestaurantManagementSystem.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-15T14:36:52.854Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.xaml.sg.cs",
+              "DocumentMoniker": "C:\\Users\\saadk\\AppData\\Local\\Temp\\.vsdbgsrc\\99f8b13f2beae1533fa44e046f60c8fc1b0f5ee0\\MainPage.xaml.sg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\99f8b13f2beae1533fa44e046f60c8fc1b0f5ee0\\MainPage.xaml.sg.cs",
+              "ToolTip": "C:\\Users\\saadk\\AppData\\Local\\Temp\\.vsdbgsrc\\99f8b13f2beae1533fa44e046f60c8fc1b0f5ee0\\MainPage.xaml.sg.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\.vsdbgsrc\\99f8b13f2beae1533fa44e046f60c8fc1b0f5ee0\\MainPage.xaml.sg.cs [Read Only]",
+              "ViewState": "AQIAABoAAAAAAAAAAADwvyIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T14:28:10.182Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Reservation_input.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_input.xaml.cs",
+              "RelativeDocumentMoniker": "Reservation_input.xaml.cs",
+              "ToolTip": "C:\\Users\\saadk\\Downloads\\RMS\\Restaurant-Management-System-main\\RestaurantManagementSystem\\Reservation_input.xaml.cs",
+              "RelativeToolTip": "Reservation_input.xaml.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAgwBUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T12:54:24.645Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="RestaurantManagementSystem.OrderMain"
+             Title="OrderMain">
+
+    <ContentPage.Resources>
+        <Color x:Key="PrimaryColor">#6200EE</Color>
+        <Color x:Key="SecondaryColor">#03DAC6</Color>
+        <Color x:Key="BackgroundColor">#000000</Color>
+        <Color x:Key="ButtonColor">#4CAF50</Color>
+        <Color x:Key="ButtonTextColor">#FFFFFF</Color>
+        <Color x:Key="HeadlineColor">#FFFFFF</Color>
+        <x:Double x:Key="ContentBackgroundOpacity">0.8</x:Double>
+    </ContentPage.Resources>
+
+    <AbsoluteLayout BackgroundColor="{StaticResource BackgroundColor}">
+        <!-- Background Image -->
+        <Image Source="e.jpg"
+               Aspect="AspectFill"
+               AbsoluteLayout.LayoutBounds="0,0,1,1"
+               AbsoluteLayout.LayoutFlags="All" />
+
+        <!-- Content StackLayout -->
+        <StackLayout Padding="0"
+             Spacing="20"
+             BackgroundColor="{StaticResource BackgroundColor}"
+             Opacity="{StaticResource ContentBackgroundOpacity}"
+             HorizontalOptions="FillAndExpand"
+             VerticalOptions="FillAndExpand">
+
+            <!-- Menu Label -->
+            <Label Text="Menu"
+                   HorizontalOptions="Center"
+                   FontSize="40"
+                   TextColor="{StaticResource HeadlineColor}"
+                   Margin="0,50,0,10"/>
+
+            <!-- Mains Picker -->
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand">
+                <Picker x:Name="MenuMainsPicker"
+                        WidthRequest="400"
+                        Title="Please select your mains"
+                        Margin="5"
+                        SelectedIndexChanged="MenuMainsPicker_SelectedIndexChanged"/>
+                <Button Text="-"
+                        Clicked="OnMinusMainsItemsClicked"
+                        Margin="5"
+                        HeightRequest="40"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        TextColor="{StaticResource ButtonTextColor}"/>
+                <Button Text="0"
+                        x:Name="MainsItemsNumber"
+                        Margin="5"
+                        HeightRequest="40"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        TextColor="{StaticResource ButtonTextColor}"/>
+                <Button Text="+"
+                        Clicked="OnAddMainsItemsClicked"
+                        Margin="5"
+                        HeightRequest="40"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        TextColor="{StaticResource ButtonTextColor}"/>
+            </HorizontalStackLayout>
+
+            <!-- Pops Picker -->
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand">
+                <Picker x:Name="MenuPopsPicker"
+                        WidthRequest="400"
+                        Title="Please select your pops"
+                        Margin="5"
+                        SelectedIndexChanged="MenuPopsPicker_SelectedIndexChanged"/>
+                <Button Text="-"
+                        Clicked="OnMinusPopsItemsClicked"
+                        Margin="5"
+                        HeightRequest="40"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        TextColor="{StaticResource ButtonTextColor}"/>
+                <Button Text="0"
+                        x:Name="PopsItemsNumber"
+                        Margin="5"
+                        HeightRequest="40"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        TextColor="{StaticResource ButtonTextColor}"/>
+                <Button Text="+"
+                        Clicked="OnAddPopsItemsClicked"
+                        Margin="5"
+                        HeightRequest="40"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        TextColor="{StaticResource ButtonTextColor}"/>
+            </HorizontalStackLayout>
+
+            <!-- Total Price -->
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand">
+                <Label Text="Total Price"
+                       Padding="10"
+                       TextColor="{StaticResource HeadlineColor}"/>
+                <Label x:Name="totalPrice"
+                       Text=""
+                       Padding="10"
+                       TextColor="{StaticResource HeadlineColor}"/>
+            </HorizontalStackLayout>
+
+            <!-- Navigation Buttons -->
+            <HorizontalStackLayout HorizontalOptions="CenterAndExpand"
+                                   VerticalOptions="CenterAndExpand"
+                                   Padding="10">
+                <Button Text="Back to Main Page"
+                        HorizontalOptions="CenterAndExpand"
+                        WidthRequest="400"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        TextColor="{StaticResource ButtonTextColor}"
+                        FontSize="20"
+                        Margin="40"
+                        Clicked="OnBackToMainButtonClicked"/>
+                <Button Text="Confirm"
+                        HorizontalOptions="CenterAndExpand"
+                        WidthRequest="400"
+                        BackgroundColor="{StaticResource ButtonColor}"
+                        TextColor="{StaticResource ButtonTextColor}"
+                        FontSize="20"
+                        Margin="40"
+                        Clicked="OnConfirmOrderButtonClicked"/>
+            </HorizontalStackLayout>
+
+        </StackLayout>
+    </AbsoluteLayout>
+
+</ContentPage>
