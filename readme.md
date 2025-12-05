@@ -1,6 +1,6 @@
 ---
 
-## 2️⃣ `Restaurant-Management-System` – C# project
+2️⃣ `Restaurant-Management-System` – C# project
 
 ```markdown
 # Restaurant Management System
