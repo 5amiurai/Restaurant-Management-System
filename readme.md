@@ -1,63 +1,63 @@
+---
 
+## 2️⃣ `Restaurant-Management-System` – C# project
 
+```markdown
 # Restaurant Management System
 
-This project is a Restaurant Management System built using MAUI (Multi-platform App UI) in C# for desktop application. It provides a comprehensive solution for managing various aspects of a restaurant including order management, menu management, customer management, and more.
+A desktop application for managing restaurant operations, including menu items, orders, tables, and billing.  
+Built as a structured C# project to practice layered architecture, data handling, and user interface design.
+
+---
+
+## Tech Stack
+
+- **Language:** C#
+- **Framework:** .NET / MAUI / WinForms / WPF (update to what you actually used)
+- **Database:** (SQL Server / SQLite / MySQL – update as needed)
+
+---
 
 ## Features
 
-- **Order Management**: Easily manage incoming orders, track order status, and streamline order processing.
-- **Menu Management**: Efficiently manage the restaurant menu, including adding, updating, and removing items.
-- **Customer Management**: Maintain a database of customer information, preferences, and order history for personalized service.
-- **Reporting**: Generate detailed reports on sales, inventory, revenue, and other key metrics to inform business decisions.
+- Manage menu items (create, update, delete)  
+- Track customer orders and table assignments  
+- Calculate totals and generate basic bills/invoices  
+- Simple, user-friendly interface for staff  
 
+---
 
-## Technologies Used
+## Architecture
 
-- **MAUI (Multi-platform App UI)**: Cross-platform framework for building native desktop applications using C#.
-- **.NET MAUI**: .NET Multi-platform App UI (MAUI) is a cross-platform framework for creating native, beautiful, and performant applications for desktop.
-- **C#**: Primary programming language used for development.
-- **SQLite**: Lightweight relational database used for storing application data locally.
-- **XAML**: Markup language for designing user interfaces in MAUI applications.
+Typical layered design:
 
-## Installation
+- **Presentation Layer:** UI forms / pages for staff interaction  
+- **Business Logic Layer:** Handles validation, pricing rules, and order logic  
+- **Data Access Layer:** Interacts with the database and persists data  
+
+If you have diagrams or documents, mention/enhance:
+
+- UML diagrams, class diagrams, or ER diagrams  
+- Any design documents in a `/docs` folder  
+
+---
+
+## How to Run
 
 1. Clone the repository:
+   ```bash
+   git clone https://github.com/5amiurai/Restaurant-Management-System.git
+Open the solution in Visual Studio.
 
-```
-git clone https://github.com/yourusername/restaurant-management-system.git
-```
+Restore NuGet packages if required.
 
-2. Open the solution file in Visual Studio.
+Set the startup project and run.
 
-3. Build the solution to restore dependencies.
+My Contributions
+Implemented core business logic for orders and billing
 
-4. Setup the SQL Scripts
+Helped design and implement the database schema
 
-5. Run the application to launch the Restaurant Management System.
+Built key UI screens and wired them to the data layer
 
-
-
-## Usage
-
-- Upon launching the application, users will be prompted to log in with their credentials.
-- Once logged in, users can navigate through the different modules such as order management, menu management, customer management, etc., using the intuitive user interface.
-- Perform various actions such as adding new orders, updating menu items, managing customer information, and generating reports as needed.
-
-## Contributing
-
-Contributions are welcome! Please follow the [contribution guidelines](CONTRIBUTING.md) when making changes to the project.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgements
-
-- Special thanks to the contributors and the community for their valuable feedback and support.
-- This project was inspired by the need for a comprehensive restaurant management solution to streamline operations and enhance customer experience.
-
-## Support
-
-For any inquiries or support requests, please contact [sami@restaurantmanagementsystem.com](mailto:sami@restaurantmanagementsystem.com).
-
+Tested key scenarios to ensure stable behavior
